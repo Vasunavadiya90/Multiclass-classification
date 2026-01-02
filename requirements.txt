@@ -1,1 +1,9 @@
 ## requirements.txt - packages for running th project
+pandas
+numpy
+seaborn
+matplotlib
+fastapi
+setuptools
+
+-e .
