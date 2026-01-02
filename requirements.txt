@@ -5,5 +5,5 @@ seaborn
 matplotlib
 fastapi
 setuptools
-
--e .
+scikit-learn
+# -e .
