@@ -6,4 +6,7 @@ matplotlib
 fastapi
 setuptools
 scikit-learn
+uvicorn
+fastapi
 # -e .
+
