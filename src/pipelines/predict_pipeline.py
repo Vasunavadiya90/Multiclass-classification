@@ -74,8 +74,8 @@ class CustomData:
                 "Total_EMI_per_month": [self.Total_EMI_per_month]
             }
 
-            data = pd.DataFrame(custom_data_input_dict)
-            return data
+            dff= pd.DataFrame(custom_data_input_dict)
+            return dff
 
         except Exception as e:
             raise CustomException(e,sys) 

@@ -272,7 +272,8 @@ Core libraries used:
 - **seaborn/matplotlib**: Data visualization (for EDA)
 
 
-
+## Streamlit
+- The app is model to user by making userunterface frontend using streamlit .
 
 ## 👤 Author
 

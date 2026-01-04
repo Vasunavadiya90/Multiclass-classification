@@ -8,7 +8,7 @@ from src.pipelines.predict_pipeline import PredictPipeline,CustomData
 from src.logger import logging
 
 app = FastAPI(title="Credit Card Default Prediction API",
-description="API for Credit Card Default Prediction")
+              description="API for Credit Card Default Prediction")
 
 class InputData(BaseModel):
     Delay_from_due_date:int 

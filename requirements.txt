@@ -7,6 +7,6 @@ fastapi
 setuptools
 scikit-learn
 uvicorn
-fastapi
+streamlit
+plotly
 # -e .
-
